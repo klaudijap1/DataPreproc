@@ -1,0 +1,1 @@
+Padariau 2 darbą, nes pagal formulę [n/2+1] man reikia daryti antrąją.
